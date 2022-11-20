@@ -10,6 +10,7 @@ How to use it?
 3.You can dbclick the 弹窗定位.exe to see the source of rubbish softwares.
 
 4.Dbclick the SoftCnKiller.exe in order to remove all the the advertisement pop-up window of your computer. 
+
 (PAY ATTENTION TO REMOVING!!!)
 
 
