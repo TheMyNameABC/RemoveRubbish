@@ -13,6 +13,10 @@ How to use it?
 
 (PAY ATTENTION TO REMOVING!!!)
 
+root:https:www.bilibili.com/video/BV18V411H7Qx/
+
+update the softwares:https://free.lanzoux.com/b0cpu1guf
+
 
 该软件用来清除笔记本的广告弹窗
 
@@ -25,3 +29,7 @@ How to use it?
 三、你可以双击 弹窗定位.exe 文件查看垃圾弹窗的来源。
 
 四、双击 SoftCnKiller.exe 查找并删除所有的弹窗软件，注意别删错了！！！
+
+来源：www.bilibili.com/video/BV18V411H7Qx/
+
+软件更新地址：https://free.lanzoux.com/b0cpu1guf
